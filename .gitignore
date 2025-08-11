@@ -6,3 +6,5 @@ combined_images/
 *.pickle
 final_iris2/
 edging_5/
+jupyer_server.txt
+.jupyter_ystore.db
