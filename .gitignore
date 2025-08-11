@@ -2,3 +2,7 @@ CLASSES*/
 UBIRIS/
 paper/
 001/
+combined_images/
+*.pickle
+final_iris2/
+edging_5/
